@@ -1,0 +1,19 @@
+.primary {
+    background-color: red;
+}
+
+.secondary {
+    background-color: blue;
+}
+
+.clear {
+    background-color: yellow;
+}
+
+.danger {
+    background-color: green;
+}
+
+.btn {
+    padding: 10px;
+}

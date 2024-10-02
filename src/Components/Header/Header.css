@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.container_wrapper {
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+    padding: 20px;
+}
+
+.container_wrapper li {
+    list-style-type: none;
+
+}
